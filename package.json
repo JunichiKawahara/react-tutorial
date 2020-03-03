@@ -4,6 +4,7 @@
   "description": "https://qiita.com/TsutomuNakamura/items/72d8cf9f07a5a30be048",
   "main": "webpack.config.js",
   "scripts": {
+    "start": "webpack-dev-server --content-base src --mode development --inline",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Junichi Kawahara",
